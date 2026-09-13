@@ -2,8 +2,7 @@
 
 An AI assistant that answers finance questions against live company data — built for the HackerSquad Hackathon.
 
-Built by [Jasmine Tabaie](https://jasminet.lovable.app) · Senior Revenue Accountant, former IRS Senior Revenue Agent
-
+Built by [[Jasmine Tabaie]](https://jasminet.lovable.app/)
 ---
 
 ## What it does
