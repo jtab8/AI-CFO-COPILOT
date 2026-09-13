@@ -1,0 +1,25 @@
+# Environment / secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
