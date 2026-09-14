@@ -2,6 +2,8 @@
 
 An AI assistant that answers finance questions against live company data — built for the HackerSquad Hackathon.
 
+Status: repository scaffold. The implementation is being migrated in — structure, architecture, and interfaces are in place.
+
 Built by [[Jasmine Tabaie]](https://jasminet.lovable.app/)
 ---
 
