@@ -95,7 +95,7 @@ ai-cfo-copilot/
 
 I'm a senior revenue accountant working at the intersection of technical accounting and applied AI — ASC revenue recognition, GAAP reporting, and federal audit, plus Python and PyTorch automation for close and reconciliation work.
 
-- Website: https://jasminet.lovable.app
+- Website: (https://jtab8-github-io.vercel.app/)
 - LinkedIn: https://www.linkedin.com/in/jt90/
 
 ## License
