@@ -1,6 +1,6 @@
 # AI CFO Copilot
 
-An AI assistant that answers finance questions against live company data — built for the HackerSquad Hackathon.
+An AI assistant that answers finance questions against live company data.
 
 Status: repository scaffold. The implementation is being migrated in — structure, architecture, and interfaces are in place.
 
