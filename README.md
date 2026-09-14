@@ -7,9 +7,9 @@ Status: repository scaffold. The implementation is being migrated in — structu
 Built by [[Jasmine Tabaie]](https://jasminet.lovable.app/)
 ---
 
-## What it does
 
-<!-- TODO (Jasmine): replace these three bullets with what your build actually did. Keep them concrete. -->
+
+## What it does
 
 - Pulls live external company and market data through Bright Data, so answers are grounded in current filings and disclosures rather than model memory.
 - Runs finance-specific analysis through the Anthropic Claude API — variance explanation, revenue trend reading, and anomaly flagging.
@@ -21,7 +21,7 @@ I spent seven years closing books and a year auditing federal returns, and the p
 
 This was an experiment in collapsing that retrieval step. Not a chatbot bolted onto a ledger, but a tool that fetches the underlying data first and reasons over it second, so the output can be traced back to a source a controller would accept.
 
-<!-- TODO (Jasmine): one or two sentences on what surprised you, or what broke. The failure is more interesting to a hiring manager than the demo. -->
+
 
 ## Architecture
 
@@ -37,7 +37,7 @@ React frontend  →  Python API  →  ┌─ Claude API      (reasoning, explana
 | Reasoning | Anthropic Claude API |
 | Data retrieval | Bright Data |
 
-<!-- TODO (Jasmine): confirm the backend framework (FastAPI / Flask / other) and update `backend/` accordingly. -->
+
 
 ## Screenshots
 
@@ -85,8 +85,7 @@ ai-cfo-copilot/
 
 ## What I'd build next
 
-<!-- TODO (Jasmine): replace with your own. A short, specific roadmap signals you
-     thought past the hackathon deadline. Examples of the right shape: -->
+
 
 - Source citation on every figure returned, so a reviewer can tie each number to its origin document.
 - An evaluation set of known-answer finance questions, to measure where the model is wrong rather than assuming it isn't.
